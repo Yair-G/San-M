@@ -286,6 +286,7 @@
       <polystyle borderalpha="1" bordercolor="0x0000ff" backgroundcolor="0x0000ff" mode="0" backgroundalpha="0.25098" handcursor="1"/>
       <hotspot description="" title="" tilt="-26.37" target="" id="Point01" skinid="ht_node" pan="-47.42" url="{node8}"/>
       <hotspot description="" title="" tilt="-18.43" target="" id="Point02" skinid="ht_node" pan="-93.42" url="{node13}"/>
+      <hotspot description="" title="" tilt="-30.28" target="" id="Point03" skinid="ht_node" pan="-79.77" url="{node9}"/>
     </hotspots>
     <media/>
     <transition zoomfov="20" zoomafterinfov="90" zoomspeed="2" blendtime="1" zoomout="0" blendcolor="0x000000" type="crossdissolve" zoomafteroutfov="20" zoomoutpause="1" softedge="0" zoomin="0" enabled="1"/>
